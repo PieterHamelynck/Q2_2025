@@ -1,0 +1,18 @@
+Column Descriptions
+Patient_ID (int): Unique identifier for each patient.
+Age (int): Age of the patient.
+Gender (object): Patient’s gender (Male/Female).
+Country (object): Country of residence.
+Ethnicity (object): Patient’s ethnic background.
+Family_History (object): Whether the patient has a family history of thyroid cancer (Yes/No).
+Radiation_Exposure (object): History of radiation exposure (Yes/No).
+Iodine_Deficiency (object): Presence of iodine deficiency (Yes/No).
+Smoking (object): Whether the patient smokes (Yes/No).
+Obesity (object): Whether the patient is obese (Yes/No).
+Diabetes (object): Whether the patient has diabetes (Yes/No).
+TSH_Level (float): Thyroid-Stimulating Hormone level (µIU/mL).
+T3_Level (float): Triiodothyronine level (ng/dL).
+T4_Level (float): Thyroxine level (µg/dL).
+Nodule_Size (float): Size of thyroid nodules (cm).
+Thyroid_Cancer_Risk (object): Estimated risk of thyroid cancer (Low/Medium/High).
+Diagnosis (object): Final diagnosis (Benign/Malignant).
