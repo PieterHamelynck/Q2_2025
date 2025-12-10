@@ -22,9 +22,9 @@ In the checklist below, you can find important topics and tasks that you should 
 - [ ] I can prepare the data for analysis (e.g. handle missing values, encode categorical variables)
 - [ ] I can merge/join different datasets
 - [ ] I can filter and select data based on conditions
-- [ ] I can explore data analysis to understand the dataset
+- [ ] I can explore data to understand the dataset
 - [ ] I can calculate basic statistics (mean, median, mode, standard deviation, etc.)
-- [ ] I can visualize data using libraries such as Matplotlib or Seaborn using different types of plots (e.g. histograms, scatter plots, box plots)
+- [ ] I can visualise data using libraries such as Matplotlib or Seaborn using different types of plots (e.g. histograms, scatter plots, box plots)
 
 #### Machine Learning
 - [ ] I can split the dataset into training and testing sets
@@ -37,5 +37,6 @@ In the checklist below, you can find important topics and tasks that you should 
 
 #### XAI with SHAP
 - [ ] I can explain model predictions using SHAP values
-- [ ] I can create visualizations to interpret model results using SHAP plots (e.g. summary plot, dependence plot, force plot, waterfall plot)
+- [ ] I can create visualizations to interpret model results using SHAP plots (e.g. summary plot, dependence plot, waterfall plot, etc.)
 - [ ] I can interpret feature importance and interactions using SHAP
+- [ ] I am familiar with the key ideas discussed in class regarding explainability methods beyond SHAP (no coding), as well as the core principles of responsible AI.
