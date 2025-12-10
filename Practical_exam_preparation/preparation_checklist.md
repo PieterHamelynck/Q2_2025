@@ -33,6 +33,7 @@ In the checklist below, you can find important topics and tasks that you should 
 - [ ] I can train a model
 - [ ] I can evaluate a model using metrics such as accuracy, precision, recall and log loss for classification tasks, and mean absolute error (MAE), mean squared error (MSE) for regression tasks
 - [ ] I can perform hyperparameter tuning using techniques such as Grid Search
+- [ ] I can interpret model results from a socio-technical perspective
 
 #### XAI with SHAP
 - [ ] I can explain model predictions using SHAP values
